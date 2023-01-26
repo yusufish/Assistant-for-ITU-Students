@@ -5,7 +5,7 @@ For logging in, ÖBS information will be sufficient.<br/>
 Whole project is based on Python
 - Selenium for web scraping
 - PyQt5 for GUI
-- Os for file operation
+- Os for file operations
 - File read to use remember me option and to login faster without interacting with websites
 - Creates GUI includes;
   - GPA calculator before final grades announcement to guess end of term letter grades
