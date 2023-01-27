@@ -1,5 +1,5 @@
 # Assistant-for-ITU-Students
-This project aims that ITU student can be reached their current academic information such as lecture times and announcements.<br/>
+This project aims that ITU students can reach their current academic information such as lecture times.<br/>
 For logging in, ÖBS information will be sufficient.<br/>
 
 Whole project is based on Python
@@ -12,4 +12,4 @@ Whole project is based on Python
   - Lecture schedule
   - End of term grades table
   - Log out section
-- This is a personal growth project and so it might have some bugs and problems. If you notice that will be solved.
+- This is a personal growth project and so it might have some bugs and problems. If you notice anyone please let me know.
