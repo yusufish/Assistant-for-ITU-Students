@@ -1,6 +1,6 @@
 # Assistant-for-ITU-Students
 This project aims that ITU students can reach their current academic information such as lecture times.<br/>
-For logging in, ÖBS information will be sufficient.<br/>
+For logging in, SIS information will be sufficient.<br/>
 
 Whole project is based on Python
 - Selenium for web scraping
